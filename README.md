@@ -1,1 +1,1 @@
-# goiteens-homwork1-js
+# goiteens-homework1-js
